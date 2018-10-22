@@ -17,6 +17,15 @@ This repo contains information on the courses and projects I've done on datacamp
 - Intro to SQL for DS
 - Intro to Databases in Python
 - Intro to Data Visualization with Python
+- Interactive Data Visualization with Bokeh
+- Statistical Thinking in Python (Part 1)
+- Statistical Thinking in Python (Part 2)
+- Joining Data in PostgreSQL
+- Supervised Learning with scikit-learn
+- Machine Learning with the Experts: School Budgets
+- Unsupervised Learning in Python
+- Deep Learning in Python
+- Network Analysis in Python(Part 1)
 
 ## Technologies Used
 
@@ -32,3 +41,7 @@ This repo contains information on the courses and projects I've done on datacamp
 - SQLAlchemy
 - Matplotlib
 - Seaborn
+- Bokeh
+- scikit-learn
+- Keras
+- NetworkX
